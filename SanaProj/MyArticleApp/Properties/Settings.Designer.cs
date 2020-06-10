@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SanaProj.Properties
+namespace MyArticleApp.Properties
 {
 
 

@@ -8,13 +8,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SanaProj
+namespace MyArticleApp
 {
-    public partial class Form1 : Form
+    public partial class ModifierFacture : MetroFramework.Forms.MetroForm
     {
-        public Form1()
+        public ModifierFacture()
         {
             InitializeComponent();
+        }
+
+        private void Btn_Modifier_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
